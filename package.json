@@ -8,6 +8,7 @@
   },
   "author": "leiamnash",
   "dependencies": {
+    "fca-priyansh": "^18.0.0",
     "@consumet/extensions": "^1.5.2",
     "@distube/ytdl-core": "^4.13.2",
     "alicezetion": "^1.8.6",
