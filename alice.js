@@ -9,7 +9,7 @@ global.react = new Array();
 const cron = require("node-cron");
 const fs = require("fs");
 const axios = require("axios");
-const alice = require("alicezetion");
+const alice = require("fca-priyansh");
 const { leiamnash } = require(path.join(__dirname, "alice/system/event.js"));
 const { execSync } = require("child_process");
 if (isNaN(global.alice.font) || global.alice.font > 40) {
